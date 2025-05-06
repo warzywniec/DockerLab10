@@ -1,4 +1,4 @@
-# PAwChO - przekład wykorzystania Github Actions 
+# PAwChO - przykład wykorzystania Github Actions 
 
 Bardzo prosta aplikacja: serwer http ze statyczną stroną www 
 Plik "./github/workflows/gha_w4.yml" definiuje:
